@@ -17,5 +17,5 @@ Employee turnover is costly due to the time and resources required for recruitin
 - Feature Importance and Interpretation
 - Business Communication and Data Storytelling
 
-LINKS TO PROJECTS
-1. https://nbviewer.org/github/depromise101/salifort-motors-turnover-analysis-project/blob/main/SALIFORT%20MOTOR%20Project%20%281%29.ipynb
+LINK TO PROJECT
+https://nbviewer.org/github/depromise101/salifort-motors-turnover-analysis-project/blob/main/SALIFORT%20MOTOR%20Project%20%281%29.ipynb
